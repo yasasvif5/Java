@@ -1,0 +1,17 @@
+public class evenorodd{
+import java.util.Scanner;
+			public static void main(String args[])
+{
+	int n;
+	Scanner myObj = new Scanner(System.in)
+	n = myObj.nextline()
+	
+	
+	if(n%2==0)
+{System.out.println("n is even");}
+	else
+{System.out.println("n is odd");}
+	
+
+}
+}
